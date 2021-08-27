@@ -5,3 +5,4 @@ sim/*.log
 sim/*.plt
 sim/*.fft
 kicad/*/*.sch-bak
+.DS_Store
