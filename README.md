@@ -11,8 +11,8 @@ __Dead Kings__ is a bass or guitar effect pedal consisting of mixable clean and 
 This device is designed as set of separate modules that can be used on their own.
 The following modules are under development now:
 
-* High-impedance input buffer with variable gain
-* 2 band EQ
+* High-impedance buffer with variable gain
+* 2 band EQ, inspired by Max Robinson's https://www.angelfire.com/electronic/funwithtubes/Amp-Tone-A.html 
 
 ## Source repository folder structure: 
 
