@@ -23,6 +23,7 @@ The following modules are under development now:
 ## TODO
 
 * Move from LTSpice to Spectrum Micro-Cap?
+* Kicad v6
 * Work on octaver Fuzz module
-* Work on everdrive module
+* Work on overdrive module
 * Work on mixer module
