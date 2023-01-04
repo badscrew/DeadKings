@@ -6,3 +6,4 @@ sim/*.plt
 sim/*.fft
 kicad/*/*.sch-bak
 .DS_Store
+kicad/DeadKings/DeadKings-backups/*.*
